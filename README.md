@@ -140,17 +140,17 @@ languages :
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NishchalKap&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NishchalKap&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishchalKap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=NishchalKap&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishchalKap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NishchalKap&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=NishchalKap&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NishchalKap&theme=tokyo-night&hide_border=true&bg_color=0d1117&title=Nishchal's%20Contribution%20Graph"/>
 
 </div>
 
@@ -299,18 +299,6 @@ Currently working on:
 
 </div>
 
-<br/>
-
-<div align="center">
-
-![ISC2](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-00ADEF?style=for-the-badge)
-![Google](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-AI-FF6F00?style=for-the-badge)
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-8A2BE2?style=for-the-badge)
-![NxtWave](https://img.shields.io/badge/NxtWave-AI-00C2FF?style=for-the-badge)
-
-</div>
-
 ---
 
 # `$ history | grep experience`
@@ -326,12 +314,12 @@ Currently working on:
 ---
 
 ## 🛡️ CyberSpace Club — Joint Head, Events Team
-`Jun 2025 – Present`
+`Jun 2025 – May 2026`
 
-- Leading planning & execution of cybersecurity events
-- Managing event coordinators & workflows
-- Collaborating with speakers & industry professionals
-- Previously served as Event Coordinator
+- Led planning and execution of cybersecurity-focused events
+- Managed coordinators and operational workflows
+- Collaborated with speakers, sponsors, and technical communities
+- Previously served as Event Coordinator before promotion to Joint Head
 
 ---
 
@@ -356,43 +344,42 @@ mission = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NishchalKap/NishchalKap/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NishchalKap/NishchalKap/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NishchalKap/NishchalKap/output/github-contribution-grid-snake-dark.svg">
+  
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/NishchalKap/NishchalKap/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
 
 ---
 
-# `$ ping nishchal --all`
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
+
+<br/>
+
+### ⚡ Building intelligent systems for the future of cyber defense.
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Security+%C3%97+AI+%C3%97+Engineering;Learning.+Building.+Iterating.;Focused+on+real-world+impact."/>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/nishchalkapadia/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:kapnishchal@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/Nishchal_Kapadia/">
-  <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://github.com/NishchalKap">
+  <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linktr.ee/nishchal_kapadia">
-  <img src="https://img.shields.io/badge/Linktree-All_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=black"/>
-</a>
+<br/><br/>
 
-</div>
-
----
-
-<div align="center">
-
-> “Engineer first. Hype last. Outcomes always.”
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1f3c,100:0d1117&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1f3c,100:0d1117&height=120&section=footer"/>
 
 </div>
