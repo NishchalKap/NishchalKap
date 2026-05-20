@@ -1,40 +1,29 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                     HERO SECTION                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0d1f3c,60:0d1117,100:0d1117&height=200&section=header&text=Nishchal%20Kapadia&fontSize=52&fontColor=58A6FF&fontAlign=50&fontAlignY=55&desc=Security%20%C2%B7%20AI%20%C2%B7%20Code&descAlign=50&descAlignY=75&descSize=16&descColor=8b949e&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=120&section=header&animation=fadeIn" width="100%"/>
+</div>
 
-<br/>
+<div align="center">
 
-```
-╔═══════════════════════════════════════════════════════╗
-║                                                       ║
-║         N I S H C H A L   K A P A D I A              ║
-║                                                       ║
-╚═══════════════════════════════════════════════════════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Security+%2B+AI+%3D+Where+I+Live.;CSE+%40+Manipal+University+Jaipur;3%C3%97+Hackathon+Winner+%F0%9F%8F%86;Builder.+Breaker.+Learner.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=CSE+%40+Manipal+University+Jaipur+%E2%80%94+Batch+of+%2728;Specializing+in+Cyber+Security;3%C3%97+Hackathon+Winner+%F0%9F%8F%86;Joint+Head+%E2%80%94+CyberSpace+Club+Events+Team;Builder.+Defender.+Thinker.)](https://git.io/typing-svg)
 
 <br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nishchalkapadia/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:kapnishchal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Nishchal_Kapadia/">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/nishchalkapadia/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:kapnishchal@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Nishchal_Kapadia/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://linktr.ee/nishchal_kapadia">
+  <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black"/>
+</a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=NishchalKap&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 
@@ -44,35 +33,30 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                     ABOUT ME                           -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## `$ whoami`
 
 ```yaml
-name       : Nishchal Kapadia
-degree     : B.Tech — Computer Science Engineering
-university : Manipal University Jaipur
-year       : Sophomore (2nd Year)
-focus      : Cyber Security · Artificial Intelligence · Machine Learning
-mindset    : Curious · Builder · Methodical · Always Debugging
+name         : Nishchal Kapadia
+role         : CSE Undergrad · Cyber Security Specialization
+university   : Manipal University Jaipur  [2024 – 2028]
+location     : Ahmedabad, Gujarat, India
+languages    : English · Hindi · Gujarati
+clubs        : CyberSpace Club (Joint Head – Events) · CampusAdda (Core Team)
+wins         : 3× Hackathon Champion
+focus        : Blue Team · SOC · AI-driven Threat Detection
+status       : Building. Learning. Shipping.
 ```
 
-> Second-year CSE undergrad exploring where **curiosity meets code**.  
-> I'm drawn to Cyber Security, AI, and Machine Learning — not as buzzwords, but as tools to solve real problems.  
-> I like figuring things out, breaking them down, and sometimes, **breaking into them** *(ethically, of course)*.  
->  
-> Right now I'm building my foundation — hands-on projects, deep dives, and a few late-night debug battles.  
-> I don't have all the answers yet — but I know the **questions that keep me up**, and that's a good place to start.
+> Second-year CSE undergrad exploring where **curiosity meets code**.
+> I'm drawn to Cyber Security, AI, and Machine Learning — not as buzzwords, but as tools to solve real problems.
+> I like figuring things out, breaking them down, and sometimes, **breaking into them** *(ethically, of course)*.
+>
+> Right now I'm building my foundation — hands-on projects, deep dives, and a few late-night debug battles.
+> I don't have all the answers yet — but I know the **questions that keep me up at night**, and that's a good place to start.
 
 <br/>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                          -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 ## `$ cat tech_stack.yml`
 
@@ -82,8 +66,10 @@ mindset    : Curious · Builder · Methodical · Always Debugging
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -91,7 +77,7 @@ mindset    : Curious · Builder · Methodical · Always Debugging
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-**Cybersecurity**
+**Cybersecurity Tooling**
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
@@ -122,41 +108,25 @@ mindset    : Curious · Builder · Methodical · Always Debugging
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  GITHUB ANALYTICS                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## `$ git log --stats`
 
 <br/>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NishchalKap&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishchalKap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=NishchalKap&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github"/>
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishchalKap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8"/>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishchalKap&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e" width="500"/>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NishchalKap&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1a3a5c" width="100%"/>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NishchalKap&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -166,41 +136,33 @@ mindset    : Curious · Builder · Methodical · Always Debugging
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  FEATURED PROJECTS                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## `$ ls -la /projects`
 
 <br/>
 
 <div align="center">
-
-<!-- ── PROJECT 1: OpsCortex ── -->
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### ⬡ OpsCortex
 
-> An intelligent operations platform built to centralize, monitor, and automate security workflows with AI at its core.
+> An intelligent operations platform built to centralize, monitor, and automate security workflows with AI-powered insights at its core.
 
 **Stack:** `Python` `Django` `React` `ML`
 
-[![Repo](https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/NishchalKap/OpsCortex)
-[![Demo](https://img.shields.io/badge/Live_Demo-58A6FF?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/NishchalKap/OpsCortex)
 
 </td>
 <td width="50%" valign="top">
 
 ### ⬡ Sattva
 
-> A mindful tech solution blending wellness and intelligent system design — where human-centric UX meets smart backend logic.
+> A mindful tech solution blending wellness and intelligent system design — where human-centric UX meets smart backend architecture.
 
 **Stack:** `React` `Node.js` `MongoDB`
 
-[![Repo](https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/NishchalKap/Sattva)
-[![Demo](https://img.shields.io/badge/Live_Demo-58A6FF?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/NishchalKap/Sattva)
 
 </td>
 </tr>
@@ -209,117 +171,115 @@ mindset    : Curious · Builder · Methodical · Always Debugging
 
 ### ⬡ ClubCult
 
-> A platform for student club discovery, event management, and community building — built for campus life, designed for scale.
+> A campus platform for student club discovery, event management, and community building — designed for scale, built for MUJ.
 
 **Stack:** `JavaScript` `React` `Node.js` `MySQL`
 
-[![Repo](https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/NishchalKap/ClubCult)
-[![Demo](https://img.shields.io/badge/Live_Demo-58A6FF?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/NishchalKap/ClubCult)
 
 </td>
 <td width="50%" valign="top">
 
-### ⬡ [ Your Next Project ]
+### ⬡ More Coming
 
-> _This slot is reserved for the thing you haven't built yet — but already know you will._
+> Currently in build mode. Next project drops soon — stay tuned.
 
-**Stack:** `TBD`
-
-[![Repo](https://img.shields.io/badge/Repository-0d1117?style=flat-square&logo=github&logoColor=white)](#)
+[![Profile](https://img.shields.io/badge/All_Repos-58A6FF?style=flat-square&logo=github&logoColor=white)](https://github.com/NishchalKap?tab=repositories)
 
 </td>
 </tr>
 </table>
-
 </div>
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  CYBERSECURITY                         -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## `$ nmap -sV nishchal.sec`
 
 ```
-PORT     STATE  SERVICE       VERSION
-80/tcp   open   blue-team     SOC Analysis · Log Monitoring · Incident Response
-443/tcp  open   threat-intel  OSINT · Threat Hunting · Indicator Analysis
-22/tcp   open   ctf-mode      Capture The Flag · Ethical Hacking · Recon
-8080/tcp open   ai-security   ML-Based Threat Detection · Anomaly Detection
+PORT      STATE  SERVICE        INFO
+80/tcp    open   blue-team      SOC Analysis · Log Monitoring · Alert Triage
+443/tcp   open   threat-intel   OSINT · IOC Hunting · Incident Response
+8080/tcp  open   ai-security    ML-Based Anomaly Detection · Threat Modeling
+22/tcp    open   ctf-mode       Capture The Flag · Ethical Hacking · Recon
 ```
 
-**Security Interests**
+<br/>
 
-| Domain | Focus |
+| Domain | Focus Areas |
 |---|---|
 | 🔵 Blue Team | Log analysis, SIEM workflows, alert triage, incident response |
-| 🔍 Threat Intelligence | OSINT, IOC hunting, threat modeling |
-| 🤖 AI Security | ML-based anomaly detection, intelligent threat response |
-| 🚩 CTF | Reverse engineering, web exploitation, cryptography challenges |
+| 🔍 Threat Intel | OSINT, IOC hunting, network forensics, threat modeling |
+| 🤖 AI × Security | ML-based anomaly detection, intelligent threat response |
+| 🚩 CTF | Web exploitation, reverse engineering, cryptography |
+| 🛡️ Networks | TCP/IP, packet analysis, network security fundamentals |
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--               AI & INNOVATION                          -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## `$ python3 ai_interests.py`
+## `$ python3 ai_focus.py`
 
 ```python
-interests = {
-    "core_focus"    : "AI-powered threat detection & intelligent security systems",
-    "building"      : "Automation tools, smart pipelines, AI-assisted workflows",
-    "exploring"     : "LLMs in security contexts, anomaly detection, AI agents",
-    "vision"        : "Where machine intelligence makes security human-scalable",
-    "approach"      : "Engineer first. Hype last. Outcomes always."
+config = {
+    "core_mission"   : "AI-powered threat detection at scale",
+    "building_now"   : "Security automation, ML pipelines, intelligent alerting",
+    "exploring"      : "LLMs in security context, anomaly detection, AI agents",
+    "philosophy"     : "Engineer first. Hype last. Outcomes always.",
+    "end_goal"       : "Make defense proactive, not reactive — using intelligence"
 }
 ```
 
-I believe the most interesting problems sit at the **intersection of security and AI** — where models learn to recognize what humans can't pattern-match at scale, and where automation makes defense proactive, not reactive.
+> The most interesting problems sit at the **intersection of security and AI** — where models learn to recognize patterns humans can't match at speed, and automation makes defense proactive at scale.
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--             ACHIEVEMENTS & CERTIFICATIONS              -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## `$ cat achievements.log`
+## `$ cat certifications.log`
 
 <br/>
 
 <div align="center">
 
-| 🏆 Achievement | Details |
-|---|---|
-| **3× Hackathon Winner** | Competed and won across multiple inter-university hackathons |
-| **CSE @ MUJ** | B.Tech — Specialization in Cyber Security |
-| **Certifications** | _(Add your certs here: CompTIA Security+, CEH, TryHackMe paths, etc.)_ |
-| **LeetCode** | Active problem solver — [Nishchal_Kapadia](https://leetcode.com/u/Nishchal_Kapadia/) |
+| Certification | Issuer | Domain |
+|---|---|---|
+| **Connect and Protect: Networks and Network Security** | Google | Networking · Security |
+| **Tools of the Trade: Linux and SQL** | Google | Linux · Databases |
+| **Assets, Threats, and Vulnerabilities** | Google | Security Fundamentals |
+| **AI For Everyone** | DeepLearning.AI | Artificial Intelligence |
+| **VISION BEYOND LIMITS** | — | Leadership · Tech |
 
 </div>
 
 <br/>
 
-> 📌 **Certifications Placeholder** — Add badges below as you earn them:
-
-![CompTIA](https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)
+![Google](https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white)
+![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-FF6F00?style=flat-square&logo=coursera&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white)
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--               CONTRIBUTION SNAKE                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
+## `$ history | grep experience`
+
+<br/>
+
+**CampusAdda** — *Core Team* · Jul 2025 – Present
+
+> Sponsorship & Marketing — securing brand partnerships, implementing outreach strategies, negotiation, and strategic planning for student-driven initiatives.
+
+---
+
+**CyberSpace Club** — *Joint Head, Events Team* · Jun 2025 – May 2026
+
+> Co-leading planning, organization, and execution of all major club events. Managing a team of coordinators, designing the annual event roadmap, collaborating with speakers, sponsors, and industry professionals. Previously served as Event Coordinator (Nov 2024 – Jun 2025).
+
+<br/>
+
+---
 
 ## `$ watch contributions`
 
@@ -339,40 +299,26 @@ I believe the most interesting problems sit at the **intersection of security an
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                CONNECT WITH ME                         -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## `$ ping nishchal`
+## `$ ping nishchal --all`
 
 <br/>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/nishchalkapadia/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:kapnishchal@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach_Out-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/Nishchal_Kapadia/">
-  <img src="https://img.shields.io/badge/LeetCode-Solve-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<br/><br/>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-%23181717?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 &nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/TryHackMe-Add_Username-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-</a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/HackTheBox-Add_Username-%23111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+<a href="https://linktr.ee/nishchal_kapadia">
+  <img src="https://img.shields.io/badge/Linktree-All_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=black"/>
 </a>
 
 </div>
@@ -381,31 +327,13 @@ I believe the most interesting problems sit at the **intersection of security an
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                 DEV QUOTE                              -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<br/>
-
-_"The quieter you become, the more you are able to hear."_ — Kali Linux
+*"The quieter you become, the more you are able to hear."* — Kali Linux
 
 <br/>
 
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    FOOTER                              -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=80&section=footer" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1f3c,100:0d1117&height=80&section=footer" width="100%"/>
 
 `© 2025 Nishchal Kapadia · Built with intent, not just code.`
 
