@@ -40,9 +40,8 @@ name         : Nishchal Kapadia
 role         : CSE Undergrad · Cyber Security Specialization
 university   : Manipal University Jaipur  [2024 – 2028]
 location     : Ahmedabad, Gujarat, India
-languages    : English · Hindi · Gujarati
-clubs        : CyberSpace Club (Joint Head – Events) · CampusAdda (Core Team)
-wins         : 3× Hackathon Champion
+languages    : English • Hindi • Gujarati • Marathi
+experience   : CampusAdda (Core Team) · CyberSpace Club (Joint Head – Events) 
 focus        : Blue Team · SOC · AI-driven Threat Detection
 status       : Building. Learning. Shipping.
 ```
@@ -114,9 +113,9 @@ status       : Building. Learning. Shipping.
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=NishchalKap&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github"/>
+<img height="175em" src="https://github-stats-alpha.vercel.app/api?username=NishchalKap&cc=0d1117&tc=58A6FF&ic=58A6FF&bc=0d1117"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishchalKap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishchalKap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8&cache_seconds=1800"/>
 
 <br/><br/>
 
@@ -124,7 +123,7 @@ status       : Building. Learning. Shipping.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NishchalKap&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1a3a5c" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NishchalKap&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1a3a5c&custom_title=Nishchal%27s+Contribution+Graph" width="100%"/>
 
 <br/><br/>
 
