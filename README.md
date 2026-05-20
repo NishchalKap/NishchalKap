@@ -113,13 +113,16 @@ status       : Building. Learning. Shipping.
 
 <div align="center">
 
+<!-- Stats card — github-stats-alpha (working) -->
 <img height="175em" src="https://github-stats-alpha.vercel.app/api?username=NishchalKap&cc=0d1117&tc=58A6FF&ic=58A6FF&bc=0d1117"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishchalKap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8&cache_seconds=1800"/>
+<!-- Top langs — using anuraghazra with a long cache to avoid rate limits -->
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishchalKap&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8&cache_seconds=86400&theme=tokyonight"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NishchalKap&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e" width="500"/>
+<!-- Streak — using git.io/streak-stats which is the stable domain -->
+<img src="https://streak-stats.demolab.com/?user=NishchalKap&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e" width="500"/>
 
 <br/><br/>
 
