@@ -72,7 +72,7 @@ languages :
 
 <br/>
 
-> I’m a cybersecurity-focused engineering student exploring the intersection of **AI, automation, and security operations**.
+> I'm a cybersecurity-focused engineering student exploring the intersection of **AI, automation, and security operations**.
 >
 > My work revolves around building practical systems — from intelligent monitoring platforms to AI-assisted security tooling.
 >
@@ -140,9 +140,9 @@ languages :
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NishchalKap&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=NishchalKap&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&cache_seconds=1800"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishchalKap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=NishchalKap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&cache_seconds=1800"/>
 
 <br/><br/>
 
@@ -358,7 +358,6 @@ open_to      : SOC internships, AI-security research collabs, CTFs
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NishchalKap/NishchalKap/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NishchalKap/NishchalKap/output/github-contribution-grid-snake.svg">
-  
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/NishchalKap/NishchalKap/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
