@@ -84,7 +84,7 @@ languages :
 
 ```diff
 + ISC2 Certified in Cybersecurity (CC)
-+ 3× Hackathon Winner
++ 5× Hackathon Winner
 + Joint Head — CyberSpace Club Events Team
 + Core Team Member — CampusAdda
 + Building AI-Powered Security Solutions
